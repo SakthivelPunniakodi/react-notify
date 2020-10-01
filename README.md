@@ -4,7 +4,7 @@
 Here is an example usage,
 
 ```js
-<NotifyMe
+<Notify
   data={data}
   storageKey='notific_key'
   notific_key='timestamp'
